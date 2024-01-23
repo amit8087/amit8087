@@ -1,4 +1,7 @@
+<!--
 ![](https://komarev.com/ghpvc/?username=amit8087&color=grey&style=plastic)
+-->
+
 
 ### Hi there 👋
 
